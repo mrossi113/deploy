@@ -12,5 +12,7 @@ While using this version of Drupal 8.5.3 for testing using an Blue/Green deploym
 
 **CircleCI** - See if its possible? 
 
+Working on tagging
+
 
    
